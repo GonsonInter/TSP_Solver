@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ad39214-c975-4216-959c-737aa4cd7935" name="Default Changelist" comment="" />
+    <list default="true" id="1ad39214-c975-4216-959c-737aa4cd7935" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/DP/DynamicProgramming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DP/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Greedy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Greedy/Solver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Greedy/greedy_tsp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp_data/TSP100cities.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/tsp_data/TSP100cities.tsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsp_data/TSP10cities.tsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/tsp_data/TSP10cities.tsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,24 +23,62 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1cu4qB2ntwjvn0JoD3ogsgEAkqG" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/tsp_data" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IntelliJ Projects\TSP_Solver\tsp_data" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Develop\IDEA Projects\TSP_Solver\src\tsp_data" />
+      <recent name="C:\Develop\IDEA Projects\TSP_Solver\src\Greedy" />
+      <recent name="C:\Develop\IDEA Projects\TSP_Solver\src" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Solver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Greedy.Solver" />
+      <module name="TSP_Solver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DP.Test" />
+      <module name="TSP_Solver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ACO.Test" />
       <module name="TSP_Solver" />
@@ -47,6 +94,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Solver" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
@@ -62,28 +111,42 @@
       <option name="presentableId" value="Default" />
       <updated>1591365332102</updated>
       <workItem from="1591365346098" duration="6172000" />
+      <workItem from="1591579861901" duration="1232000" />
+      <workItem from="1591582648762" duration="1890000" />
+      <workItem from="1591587400751" duration="1214000" />
+      <workItem from="1592569190198" duration="1119000" />
+      <workItem from="1592570338924" duration="312000" />
+      <workItem from="1592570682881" duration="2654000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="2005" height="254" key="GridCell.Tab.0.bottom" timestamp="1591418832090">
+    <state x="805" y="311" key="FileChooserDialogImpl" timestamp="1591587415679">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="254" key="GridCell.Tab.0.bottom/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1591418832090" />
-    <state width="2005" height="254" key="GridCell.Tab.0.center" timestamp="1591418832090">
+    <state x="805" y="311" key="FileChooserDialogImpl/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1591587415679" />
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom" timestamp="1592572077765">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="254" key="GridCell.Tab.0.center/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1591418832090" />
-    <state width="2005" height="254" key="GridCell.Tab.0.left" timestamp="1591418832090">
+    <state width="2005" height="305" key="GridCell.Tab.0.bottom/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1592572077765" />
+    <state width="2005" height="305" key="GridCell.Tab.0.center" timestamp="1592572077765">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="254" key="GridCell.Tab.0.left/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1591418832090" />
-    <state width="2005" height="254" key="GridCell.Tab.0.right" timestamp="1591418832090">
+    <state width="2005" height="305" key="GridCell.Tab.0.center/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1592572077765" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left" timestamp="1592572077765">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="254" key="GridCell.Tab.0.right/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1591418832090" />
+    <state width="2005" height="305" key="GridCell.Tab.0.left/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1592572077765" />
+    <state width="2005" height="305" key="GridCell.Tab.0.right" timestamp="1592572077765">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="2005" height="305" key="GridCell.Tab.0.right/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1592572077765" />
+    <state x="1052" y="37" key="SettingsEditor" timestamp="1591582758480">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1052" y="37" key="SettingsEditor/-1920.0.1536.824/0.0.2048.1112@0.0.2048.1112" timestamp="1591582758480" />
   </component>
 </project>
